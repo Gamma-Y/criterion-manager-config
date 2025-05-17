@@ -1,0 +1,39 @@
+[
+  {
+    "localID": "EE6B49BBD93C4BE1A3D4CF34443E473A",
+    "algID": "EVENTP",
+    "UUID": "A3004F13B59740F9954F82956DF2F1EF",
+    "timeGMT": 1678677385377,
+    "type": "CHANGE",
+    "ngdu": "sn",
+    "items": {
+      "t1013_p2300347": [
+        {
+          "variable": "t1013_p2300347",
+          "objID": 692006131,
+          "parID": 2300347,
+          "valueNum": 10.0,
+          "valueTimeGMT": 1678136515000,
+          "quality": 65536,
+          "qualityStr": "(65536) от сторонней системы",
+          "unit": -1,
+          "changed": 0
+        }
+      ],
+      "t1010_p3700027": [
+        {
+          "variable": "t1010_p3700027",
+          "objID": 692006136,
+          "parID": 3700027,
+          "valueNum": 80.0,
+          "valueTimeGMT": 1639940400000,
+          "quality": 65536,
+          "qualityStr": "(65536) от сторонней системы",
+          "unit": -1,
+          "changed": 0
+        }
+      ]
+    }
+  }
+]
+      
